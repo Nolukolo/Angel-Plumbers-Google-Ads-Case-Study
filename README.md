@@ -1,4 +1,4 @@
-# 🎯 Case Study: Multi-Phase Paid Search Architecture & Infrastructure Audit
+# Case Study: Multi-Phase Paid Search Architecture & Infrastructure Audit
 
 ## Project Overview
 This repository contains a comprehensive Google Ads campaign build and digital infrastructure audit designed for **Angel Plumbers**, a local service business operating within high-density, high-income suburban clusters in Johannesburg. 
